@@ -12,12 +12,12 @@
     "allowInbox": true,
     "commandDisabled": [],
     "eventDisabled": [],
-    "BOTNAME": "",
-    "AMDIN_NAME": "",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": ".",
+    "BOTNAME": "ميمي",
+    "AMDIN_NAME": "انجالاتي",
+    "FACEBOOK_ADMIN": "61579001370029",
+    "PREFIX": "-",
     "ADMINBOT": [
-        "61571422601081"
+        "61579001370029"
     ],
     "NDH": [
         ""
